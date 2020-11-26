@@ -1,4 +1,5 @@
-import math
+num= int(input("Ingrese el numero al que quiere sacar raiz"))
+import math 
 
 def RaízEntera(num):
     raiz = str(math.sqrt(num))
