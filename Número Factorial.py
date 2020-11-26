@@ -4,3 +4,6 @@ def CalcFactorial(num):
         print(acumulado,"x",i,"=",acumulado*i)
         acumulado *= i
     print(acumulado)
+
+n = int(input("Ingrese el número que quiere calcular su factorial: "))
+CalcFactorial(n)
