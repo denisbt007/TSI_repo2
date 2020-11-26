@@ -1,5 +1,6 @@
 import math
 
+n = int(input("Ingrese el número que quiere revisar si es primo: "))
 def DefNúmeroPrimo(num):
     primo = True
     print("El número a evaluar es",num)
@@ -18,3 +19,4 @@ def DefNúmeroPrimo(num):
         print(num,"es primo.")
     else:
         print(num,"no es primo.")
+DefNúmeroPrimo(n)
