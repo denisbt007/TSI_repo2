@@ -1,6 +1,9 @@
+<<<<<<< Updated upstream
 num= int(input("Ingrese el numero al que quiere sacar raiz"))
 import math 
 
+=======
+>>>>>>> Stashed changes
 def RaízEntera(num):
     raiz = str(math.sqrt(num))
     punto = False
@@ -26,6 +29,9 @@ def RaízEntera(num):
         print(num,"tiene raíz entera que es:",raiz)
     else:
         print("la raíz es",raiz,"Por lo tanto no es entera.")
+<<<<<<< Updated upstream
 
 n = int(input("Ingrese el número que quiere averiguar si su raíz es entera: "))
 RaízEntera(n)
+=======
+>>>>>>> Stashed changes
