@@ -1,4 +1,3 @@
-num= int(input("Ingrese el numero al que quiere sacar raiz"))
 import math 
 
 def RaízEntera(num):
@@ -27,5 +26,5 @@ def RaízEntera(num):
     else:
         print("la raíz es",raiz,"Por lo tanto no es entera.")
 
-n = int(input("Ingrese el número que quiere averiguar si su raíz es entera: "))
-RaízEntera(n)
+num = int(input("Ingrese el número que quiere averiguar si su raíz es entera: "))
+RaízEntera(num)
