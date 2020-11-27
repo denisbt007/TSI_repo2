@@ -19,3 +19,4 @@ if capi == True:
     print(num,"es capicúa.")
 else:
     print(num,"no es capicúa.")
+    #codigo capicua
