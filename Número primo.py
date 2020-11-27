@@ -20,3 +20,5 @@ def DefNúmeroPrimo(num):
     else:
         print(num,"no es primo.")
 DefNúmeroPrimo(n)
+
+#test1
