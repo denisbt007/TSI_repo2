@@ -7,3 +7,4 @@ def CalcFactorial(num):
 
 n = int(input("Ingrese el número que quiere calcular su factorial: "))
 CalcFactorial(n)
+#somos Grupo 2
